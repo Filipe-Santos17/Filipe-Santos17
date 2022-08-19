@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Santos17&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- <center> ### My Skills </center>
+ <h3 class="center"> My Skills </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -26,9 +26,10 @@
  <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Filipe-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
- </div><br>
+ </div>
+ <br>
  
- <center> ### Contact-Me </center> 
+ <h3 class="center"> Contact-Me  </h3>
  <center> 
   <a href="https://www.youtube.com/channel/UCaEfgUzXHpFXORka1tXLrpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/filipemarquesdos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
