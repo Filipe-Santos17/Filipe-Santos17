@@ -1,10 +1,11 @@
-## Olá Mundo!!! Eu sou o Filipe Marques dos Santos
+# Hello World!!! 
+## I am Filipe Santos
 
-❤ - Apaixonado por React
+❤ - Learning Typescript
 
-⛱ - Ainda não estou trabalhando mas aceito ser chamado pra um estagiozinho ;-)
+⛱ - Work in VanillaJS in Front and Backend Python with Django
 
-🐧 - Usuario de Linux Ubuntu/Windows com WSL 
+🐧 - Linux User (Ubuntu)
  #
  <div>
   <a href="https://github.com/Filipe-Santos17">
@@ -12,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Santos17&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+ <h3 class="center">My Skills</>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,11 +21,8 @@
   <img align="center" alt="Filipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Filipe-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Filipe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Filipe-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Filipe-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Filipe-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Filipe-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Filipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filipe-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Filipe-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
  </div><br>
