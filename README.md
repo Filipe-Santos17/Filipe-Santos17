@@ -2,7 +2,7 @@
 
 :mortar_board: - Future SWE
 
-:microscope: - Learning Typescript
+:microscope: - Learning OOP
 
 :construction_worker: - Working with VanillaJS in Front and Backend Python with Django
 
