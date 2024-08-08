@@ -2,7 +2,7 @@
 
 :mortar_board: - SWE
 
-:construction_worker: - Working with VanillaJS in Front and Backend Python with Django
+:construction_worker: - Working with Typescript, Node, React and Vue
 
 :penguin: - Linux User (Ubuntu)
  
