@@ -6,12 +6,6 @@
 
 :penguin: - Linux User (Ubuntu)
  
-<div>
-  <a href="https://github.com/Filipe-Santos17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Santos17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Santos17&layout=compact&langs_count=7&theme=dark"/>
-</div>
-   
 <h3 align="center"> Contact-Me  </h3>
  <div align="center"> 
   <a href="https://www.youtube.com/channel/UCaEfgUzXHpFXORka1tXLrpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
